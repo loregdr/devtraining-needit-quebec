@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="b28989fb0726f0102950f96d7c1ed0be" sys_domain="global" table="x_58872_needit_needlt" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-19 03:07:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>368989fb0726f0102950f96d7c1ed0c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_needlt" name="x_58872_needit_needlt" sys_domain="global" view="Default view">b28989fb0726f0102950f96d7c1ed0be</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needlt" sys_domain="global" view="Default view">eb2fb0f30726f0102950f96d7c1ed09e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-19 03:07:25</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-19 03:07:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>328989fb0726f0102950f96d7c1ed0c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_needlt" name="x_58872_needit_needlt" sys_domain="global" view="Default view">b28989fb0726f0102950f96d7c1ed0be</sys_ui_form>
+            <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needlt" sys_domain="global" view="Default view">7e8989fb0726f0102950f96d7c1ed0bc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-19 03:07:25</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-19 03:09:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c3f9cdfb0726f0102950f96d7c1ed0df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_needlt" name="x_58872_needit_needlt" sys_domain="global" view="Default view">b28989fb0726f0102950f96d7c1ed0be</sys_ui_form>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_58872_needit_needlt" sys_domain="global" view="Default view">c3f9cdfb0726f0102950f96d7c1ed085</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-19 03:09:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_58872_needit_needlt</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-19 03:07:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b28989fb0726f0102950f96d7c1ed0be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_58872_needit_needlt</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_form_sections_b28989fb0726f0102950f96d7c1ed0be</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-19 03:07:25</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
